@@ -1,1 +1,3 @@
-# node_example
+to run:
+npm i
+node index.js
